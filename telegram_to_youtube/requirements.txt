@@ -1,0 +1,2 @@
+telethon
+youtube_uploader_selenium

@@ -1,0 +1,7 @@
+
+__pycache__/
+*.pyc
+bridge_session.session
+bridge_session.session-journal
+Telegram_Downloads/
+
